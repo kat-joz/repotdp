@@ -1,2 +1,3 @@
 text sample 2
 text sample 1
+Text from develop2
